@@ -176,17 +176,7 @@ Titles support Minecraft formatting codes using `&` or `§`:
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
----
-
-## 📄 License
-
-[Insert your license here]
-
----
 
 <div align="center">
 
