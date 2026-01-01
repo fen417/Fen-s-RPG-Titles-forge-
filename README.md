@@ -1,4 +1,4 @@
-# 🎭 RPG Title System
+# Fen's RPG Titles
 
 > Enhance your Minecraft experience with a powerful RPG-style title system that allows players to earn, manage, and display custom titles both above their heads and in chat.
 
@@ -169,7 +169,7 @@ Titles support Minecraft formatting codes using `&` or `§`:
 
 ## 📦 Installation
 
-1. Download the latest release from the [Releases](../../releases) page
+1. Download the latest release from the [Releases](https://www.curseforge.com/minecraft/mc-mods/fens-rpg-titles) page
 2. Place the `.jar` file in your `mods` folder
 3. Launch Minecraft with Forge/NeoForge
 4. Enjoy!
@@ -190,7 +190,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 <div align="center">
 
-**Made with ❤️ for the Minecraft community**
 
 [Report Bug](../../issues) · [Request Feature](../../issues)
 
